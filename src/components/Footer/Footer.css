@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.navlinks li a:hover {
+    @apply transition duration-300 text-white
+}
